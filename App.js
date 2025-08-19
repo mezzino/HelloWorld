@@ -21,7 +21,7 @@ const styles = StyleSheet.create({
   },
   overlay: {
     flex: 1,
-    backgroundColor: 'rgba(0,255,255,0.3)',
+    backgroundColor: 'rgba(0,255,255,0.1)',
     padding: 130,
     borderRadius: 1,
   },
